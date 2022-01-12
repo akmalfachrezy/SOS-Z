@@ -9,7 +9,7 @@ Pemain yang berhasil menciptakan sos antara kotak terhubung baik vertikal, diago
   1. Pada main menu tekan 1 untuk memulai permainan,
   2. Pilih ukuran papan yang akan dimainkan, ukuran papan yaitu nxn,
   3. Player1 akan memulai permainan dengan menginput baris dan kolom serta huruf yang akan dimasukkan,
-  4. Player 2 akan melakukan hal yang sama seperti Player1 ketika mendapatkan giliran main,
+  4. Player2 akan melakukan hal yang sama seperti Player1 ketika mendapatkan giliran main,
   5. Player yang mendapatkan blok sos maka player tersebut mendapat kesempatan untuk menciptakan sos kembali.
 
 ●	Cara Menginput Baris dan kolom serta huruf
